@@ -1,0 +1,2 @@
+This is the second example of Git and GitHub learning. It was cloned to the local repository, and it was blank.
+Now, m about to pull it and these lines should be updated in the local repo as well.
